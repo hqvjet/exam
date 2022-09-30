@@ -1,0 +1,77 @@
+.main {
+    width: 100%;
+    height: 100vh;
+    background-color: #EFEFEF;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.container {
+    width: 70%;
+    height: 80vh;
+    background-color: #fff;
+    border-radius: 10px;
+    box-shadow: rgba(99, 99, 99, 0.2) 0 2px 8px 0;
+}
+
+.topic {
+    width: 40%;
+    height: 15%;
+    background-color: #E3E3E3;
+    border-radius: 5px;
+    margin: 15px auto;
+}
+
+.searchBar {
+    width: 19%;
+    height: 5%;
+    background-color: #E3E3E3;
+    border-radius: 5px;
+    margin-left: 10%;
+    margin-top: 4%;
+}
+
+.element {
+    width: 20%;
+    height: 10px;
+    background-color: #E3E3E3;
+    padding: 5px;
+    border-radius: 5px;
+}
+
+.tr {
+    width: 20%;
+    height: 10px;
+}
+
+.table {
+    width: 80%;
+    margin: 0 auto;
+}
+
+.del {
+    width: 5%;
+    height: 10px;
+    background-color: #E3E3E3;
+    padding: 5px;
+    border-radius: 5px;
+}
+
+.inf {
+    width: 50%;
+    height: 5%;
+    background-color: #E3E3E3;
+    padding: 5px;
+    border-radius: 5px;
+    margin: 5% auto;
+}
+
+.back {
+    width: 100px;
+    height: 40px;
+    background-color: #E3E3E3;
+    padding: 5px;
+    border-radius: 5px;
+    margin: 0 auto;
+}
